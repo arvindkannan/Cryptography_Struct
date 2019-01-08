@@ -1,1 +1,1 @@
-# Cryptography_Struct
+# Cryptography Class for Encrypting/Decrypting Plain Text
